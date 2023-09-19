@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/IRONHEADGames/Scenes/LogInScene.unity
+    guid: 1757507b4ccaeb2408ec53bb4ed0a5a1
+  - enabled: 1
+    path: Assets/IRONHEADGames/Scenes/ArcadeHall.unity
+    guid: d48da0ddabe0b9849971e263c73b4237
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: effc601e5017c2e4393145d8be5467e6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0076b74c77d5e394b9144a0bda1f8c05, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3db785a1af43f5942baac5aa7d4a492e, type: 2}
